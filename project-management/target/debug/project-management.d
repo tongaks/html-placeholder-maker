@@ -1,0 +1,1 @@
+/home/bandito/RustCodes/project-management/target/debug/project-management: /home/bandito/RustCodes/project-management/src/functions.rs /home/bandito/RustCodes/project-management/src/main.rs /home/bandito/RustCodes/project-management/src/placeholders.rs /home/bandito/RustCodes/project-management/src/select.rs
